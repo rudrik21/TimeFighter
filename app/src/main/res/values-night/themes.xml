@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TimeFighter" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/may_green</item>
+        <item name="colorPrimaryVariant">@color/cal_poly_pomona_green</item>
+        <item name="colorOnPrimary">@color/dollar_bill</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_gray</item>
+        <item name="colorSecondaryVariant">@color/dollar_bill</item>
+        <item name="colorOnSecondary">@color/may_green</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
+
+<!--Theme.MaterialComponents.DayNight.DarkActionBar-->
